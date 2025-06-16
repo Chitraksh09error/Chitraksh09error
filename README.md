@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning AWS, Data Structures, MERN<br>👨‍💻 All of my projects are available at https://ccstack-portfolio.vercel.app/<br>💬 Ask me about MERN, CANVA<br>📫 How to reach me chitrakshchavan4@gmail.com<br>⚡ Fun fact **I talk to my code more than I talk to people some days.**
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chitraksh_9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chitraksh-chavan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chitrakshchavan4@gmail.com) 
